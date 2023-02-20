@@ -28,3 +28,23 @@ nav ul {
   list-style: none;
 }
 
+
+main{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.rettangolo{
+  height: 300px;
+  width: 500px;
+  border: 1px dashed black;
+  background-color: rgb(52, 52, 241);
+
+}
+.quadrato{
+  height: 300px;
+  width: 300px;
+  border: 1px dashed black;   
+  background-color:rosybrown ; 
+
+}
